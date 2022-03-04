@@ -1,0 +1,31 @@
+header{
+    padding: 2em;
+    background-color: burlywood;
+    margin-top: 2em;
+    text-align: center;
+    color: rgb(19, 20, 20);
+    
+
+}
+
+.quote{
+    font-size: 2em;
+}
+
+.btn-large{
+    margin: 0.5em;
+}
+
+.card{
+    text-align: center;
+    width: 45em;    
+}
+
+.new-quote-button{
+    background-color: burlywood;
+    border-color: rgb(12, 12, 12);
+}
+
+#button:hover{
+    background-color: cadetblue;
+}
